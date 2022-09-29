@@ -1,0 +1,15 @@
+a157a86dd05fb89ea3cecc7afe26317c
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.ScreenStack = void 0;
+var ScreenStack = {
+  Splash: 'Splash',
+  Login: 'Login',
+  Home: 'Home',
+  Settings: 'Settings',
+  Profile: 'Profile',
+  UserDetails: 'UserDetails'
+};
+exports.ScreenStack = ScreenStack;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6WyJTY3JlZW5TdGFjayIsIlNwbGFzaCIsIkxvZ2luIiwiSG9tZSIsIlNldHRpbmdzIiwiUHJvZmlsZSIsIlVzZXJEZXRhaWxzIl0sInNvdXJjZXMiOlsiU2NyZWVuU3RhY2sudHMiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGNvbnN0IFNjcmVlblN0YWNrID0ge1xuICBTcGxhc2g6ICdTcGxhc2gnLFxuICBMb2dpbjogJ0xvZ2luJyxcbiAgSG9tZTogJ0hvbWUnLFxuICBTZXR0aW5nczogJ1NldHRpbmdzJyxcbiAgUHJvZmlsZTogJ1Byb2ZpbGUnLFxuICBVc2VyRGV0YWlsczogJ1VzZXJEZXRhaWxzJyxcbn07XG4iXSwibWFwcGluZ3MiOiI7Ozs7QUFBTyxJQUFNQSxXQUFXLEdBQUc7RUFDekJDLE1BQU0sRUFBRSxRQURpQjtFQUV6QkMsS0FBSyxFQUFFLE9BRmtCO0VBR3pCQyxJQUFJLEVBQUUsTUFIbUI7RUFJekJDLFFBQVEsRUFBRSxVQUplO0VBS3pCQyxPQUFPLEVBQUUsU0FMZ0I7RUFNekJDLFdBQVcsRUFBRTtBQU5ZLENBQXBCIn0=

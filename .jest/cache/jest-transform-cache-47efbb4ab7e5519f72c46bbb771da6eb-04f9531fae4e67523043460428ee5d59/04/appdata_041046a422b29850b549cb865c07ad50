@@ -1,0 +1,13 @@
+8c7e51af251d1b7c8bd87220b8711285
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.appData = void 0;
+var appData = {
+  username: 'user1',
+  email: 'user1@email.com',
+  isLoggedIn: true,
+  isDarkTheme: false
+};
+exports.appData = appData;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6WyJhcHBEYXRhIiwidXNlcm5hbWUiLCJlbWFpbCIsImlzTG9nZ2VkSW4iLCJpc0RhcmtUaGVtZSJdLCJzb3VyY2VzIjpbImFwcGRhdGEudHMiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGNvbnN0IGFwcERhdGEgPSB7XG4gIHVzZXJuYW1lOiAndXNlcjEnLFxuICBlbWFpbDogJ3VzZXIxQGVtYWlsLmNvbScsXG4gIGlzTG9nZ2VkSW46IHRydWUsXG4gIGlzRGFya1RoZW1lOiBmYWxzZSxcbn07XG4iXSwibWFwcGluZ3MiOiI7Ozs7QUFBTyxJQUFNQSxPQUFPLEdBQUc7RUFDckJDLFFBQVEsRUFBRSxPQURXO0VBRXJCQyxLQUFLLEVBQUUsaUJBRmM7RUFHckJDLFVBQVUsRUFBRSxJQUhTO0VBSXJCQyxXQUFXLEVBQUU7QUFKUSxDQUFoQiJ9

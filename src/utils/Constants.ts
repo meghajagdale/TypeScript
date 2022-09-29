@@ -1,0 +1,30 @@
+//All application constant is maintained in this file
+export const GET_STARTED_TEXT = 'Stay connected with everyone!';
+export const GET_STARTED_SIGN_TEXT = 'Sign in with account';
+export const GET_STARTED = 'Get Started';
+export const USER_NAME = 'Username';
+export const USER_NAME_ERROR = 'Username must be 4 characters long.';
+export const PASSWORD = 'Password';
+export const PASSWORD_ERROR = 'Password must be 8 characters long.';
+export const FORGOT_PASSWORD = 'Forgot password?';
+export const WRONG_INPUT = 'Wrong Input!';
+export const USER_PASSWORD_EMPTY =
+  'Username or password field cannot be empty.';
+export const OKAY = 'Okay';
+export const INVALID_USER = 'Invalid User!';
+export const USER_PASSWORD_INCORRECT = 'Username or password is incorrect.';
+export const WELCOME = 'Welcome!';
+export const YOUR_USERNAME = 'Your Username';
+export const YOUR_PASSWORD = 'Your Password';
+export const SIGN_IN = 'Sign In';
+export const SIGN_OUT = 'Sign Out';
+export const FOllOWING = 'Following';
+export const POST = 'Posts';
+export const FOLLOWERS = 'Followers';
+export const Dark_Theme = 'Dark Theme';
+export const BRAND = 'Device: ';
+export const Contact_Information = 'Contact Information';
+export const Other_Information = 'Other Information';
+export const USER_NAME1 = 'User Name: ';
+export const WEBSITE = 'Website: ';
+export const PHONE = 'Phone: ';

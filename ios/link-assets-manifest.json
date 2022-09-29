@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Gotham-Book.otf",
+      "sha1": "f169d1a42c195495d4815f4e59b4fe72a48792fb"
+    },
+    {
+      "path": "assets/fonts/Gotham-Light.otf",
+      "sha1": "e9a9ce3b903e4cb2597baa062f9087cd6f1d3518"
+    },
+    {
+      "path": "assets/fonts/Gotham-Medium.otf",
+      "sha1": "254abf9e97a80f66c140aca41684919fea27bf66"
+    }
+  ]
+}

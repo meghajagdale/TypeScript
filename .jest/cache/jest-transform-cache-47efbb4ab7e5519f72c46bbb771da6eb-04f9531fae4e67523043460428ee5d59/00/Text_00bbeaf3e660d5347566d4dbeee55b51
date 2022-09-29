@@ -1,0 +1,26 @@
+dbdd34321ebdb600ccd207f3635041fa
+var _interopRequireDefault = require("@babel/runtime/helpers/interopRequireDefault");
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _reactNative = require("react-native");
+
+var _react = _interopRequireDefault(require("react"));
+
+var _TextUtils = require("./TextUtils");
+
+var _jsxRuntime = require("react/jsx-runtime");
+
+var Text = function Text(props) {
+  var textStyle = (0, _TextUtils.useTextStyle)(props.type);
+  return (0, _jsxRuntime.jsx)(_reactNative.Text, Object.assign({}, props, {
+    style: [textStyle, props.style]
+  }));
+};
+
+var _default = Text;
+exports.default = _default;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6WyJUZXh0IiwicHJvcHMiLCJ0ZXh0U3R5bGUiLCJ1c2VUZXh0U3R5bGUiLCJ0eXBlIiwic3R5bGUiXSwic291cmNlcyI6WyJUZXh0LnRzeCJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQge1RleHQgYXMgUk5UZXh0LCBUZXh0UHJvcHN9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7XG5pbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnO1xuaW1wb3J0IHtUZXh0VHlwZSwgdXNlVGV4dFN0eWxlfSBmcm9tICcuL1RleHRVdGlscyc7XG5cbmludGVyZmFjZSBQcm9wcyBleHRlbmRzIFRleHRQcm9wcyB7XG4gIHR5cGU/OiBUZXh0VHlwZTtcbn1cbmNvbnN0IFRleHQgPSAocHJvcHM6IFByb3BzKSA9PiB7XG4gIGNvbnN0IHRleHRTdHlsZSA9IHVzZVRleHRTdHlsZShwcm9wcy50eXBlKTtcbiAgcmV0dXJuIDxSTlRleHQgey4uLnByb3BzfSBzdHlsZT17W3RleHRTdHlsZSwgcHJvcHMuc3R5bGVdfSAvPjtcbn07XG5cbmV4cG9ydCBkZWZhdWx0IFRleHQ7XG4iXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFBQTs7QUFDQTs7QUFDQTs7OztBQUtBLElBQU1BLElBQUksR0FBRyxTQUFQQSxJQUFPLENBQUNDLEtBQUQsRUFBa0I7RUFDN0IsSUFBTUMsU0FBUyxHQUFHLElBQUFDLHVCQUFBLEVBQWFGLEtBQUssQ0FBQ0csSUFBbkIsQ0FBbEI7RUFDQSxPQUFPLHFCQUFDLGlCQUFELG9CQUFZSCxLQUFaO0lBQW1CLEtBQUssRUFBRSxDQUFDQyxTQUFELEVBQVlELEtBQUssQ0FBQ0ksS0FBbEI7RUFBMUIsR0FBUDtBQUNELENBSEQ7O2VBS2VMLEkifQ==
